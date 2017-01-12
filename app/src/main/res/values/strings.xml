@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Flowers</string>
+
+    <!-- Flower -->
+    <string name="fName">china rose</string>
+    <string name="fPlace">China</string>
+    <string name="fDescr">The China Roses have a mysterious origin. Although there is no evidence of how they were developed, they are the product of a rich culture of ingenious people.
+                            They were not seen in art before the tenth century, were not a part of mythology, and little is known of their history.
+                            What we do know is that they were cultivated for many centuries in China; however, the Chinese did not prize the rose as they did the chrysanthemum, which appears in their art from long times past.
+    </string>
+    <string name="fPlaceDescr">China is the world\'s most populous country.
+                                It has a continuous culture stretching back nearly 4,000 years
+                                and originated many of the foundations of the modern world.
+    </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

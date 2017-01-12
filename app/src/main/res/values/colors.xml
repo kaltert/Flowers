@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Flower colors -->
+    <color name="color_rose_one">#D77548</color>
+    <color name="color_rose_two">#8F4136</color>
+    <color name="color_rose_three">#7A7083</color>
+	
+	<!-- Background color for app -->
+    <color name="tan_background">#FFF7DA</color>
+	
+	<!-- Color for the Text category -->
+    <color name="color_text_light">#757575</color>
+    <color name="color_text">#212121</color>
+</resources>
